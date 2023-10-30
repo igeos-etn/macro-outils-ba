@@ -86,5 +86,4 @@
     <option value="https://script.google.com/a/macros/etn.fr/s/AKfycbygK_XwhCZGxgcYQt7aBgbbD7bntyfoxudc-FV9J6_f21js4YgZW79tpLH2Uy1l3s9H/exec">88</option>
     <option value="https://script.google.com/a/macros/etn.fr/s/AKfycbxqIQ_Z2l4Dnik9BtykwBW4cS9YNMWMh7TWLcEVjsify4gh3CGhpZJTL4a9vjp2h1g/exec">95</option>
     <option value="https://script.google.com/a/macros/etn.fr/s/AKfycbxIecKQ98QA4HdMVp9hR44yiyaXaTotzvMOpq6nrgd0Q8VMap-RHGE9M_qzmCLov_9ckg/exec">98</option>
-    <option value="https://script.google.com/a/macros/etn.fr/s/AKfycbxR2clDMRLpCE_fXhUHCnnpuzcKQXwokaaAsS_lfhcQfMuJxg/exec">Sanofi</option>
     </select>
