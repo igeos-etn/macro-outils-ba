@@ -1,5 +1,4 @@
     <select name="selectAG" id="selectAG">
-    <option value="00">AG?</option>
     <option value="https://script.google.com/a/macros/etn.fr/s/AKfycbwgZu9xbeu9gwP--1KxpWiRhaGXsdcb9sUSWNrIEY0iedsBXK_5/exec">01</option>
     <option value="https://script.google.com/a/macros/etn.fr/s/AKfycbzrnOlSFNnvkPp6eLV1yPTE7arq39LUKsMpewAo5XmRurpvKlvJ/exec">02</option>
     <option value="https://script.google.com/a/macros/etn.fr/s/AKfycbxASZcQV997y16DVzyLM_3Q8l-GFAR4puiFeLz6YJLF1IPStCc/exec">03</option>
