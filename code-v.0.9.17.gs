@@ -513,10 +513,10 @@ function isUserAuthorized(email) {
     return cachedResult === "true";
   }
 
-  // 2. Sinon, on interroge Google (1 appel API) et on mémorise le résultat pour 6h
+  // 2. Sinon, on interroge Google (1 appel API) et on mémorise le résultat pour 4h
   try { 
     const isAuth = GroupsApp.getGroupByEmail(AUTHORIZED_GROUP).hasUser(email);
-    cache.put(cacheKey, isAuth.toString(), 21600);
+    cache.put(cacheKey, isAuth.toString(), 14400);
     return isAuth;
   } catch (e) { 
     logError("Err Groupe: " + e.message); 
