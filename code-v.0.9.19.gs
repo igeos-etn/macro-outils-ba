@@ -466,7 +466,7 @@ function isUserAuthorized(email) {
     
     // Modification ici : durée du cache variable selon le résultat
     if (isAuth) {
-      cache.put(cacheKey, "true", 14400); // 4 heures si autorisé
+      cache.put(cacheKey, "true", 7200); // 2 heures si autorisé
     } else {
       cache.put(cacheKey, "false", 60);   // 1 minute seulement si refusé
     }
