@@ -2,7 +2,7 @@
 // 1. CONFIGURATION GÉNÉRALE
 // ==============================================================================
 
-const VERSION_SCRIPT = "0.9.18"; // Ajout de la rotation des logs
+const VERSION_SCRIPT = "0.9.19"; // Ajout de la rotation des logs
 const AGENCE_ID = "AG98"; // <--- MODIFIEZ ICI LE NUMERO D'AGENCE
 const AUTHORIZED_GROUP = "transfert-boite-agence-98@etn.fr";
 const LOG_FILE_NAME = "LOGS – Script Boite Agence"; // Nom du fichier de logs
